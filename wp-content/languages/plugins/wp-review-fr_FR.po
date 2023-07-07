@@ -1,0 +1,588 @@
+# Translation of Plugins - WordPress Review Plugin: The Ultimate Solution for Building a Review Website - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WordPress Review Plugin: The Ultimate Solution for Building a Review Website - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-04 07:43:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WordPress Review Plugin: The Ultimate Solution for Building a Review Website - Stable (latest release)\n"
+
+#: includes/enqueue.php:34
+msgid "You must log in to add your review"
+msgstr "Vous devez vous connecter pour ajouter votre évaluation"
+
+#: includes/schemas.php:1553
+msgid "Store Telephone"
+msgstr "Téléphone de la boutique"
+
+#: includes/schemas.php:1548
+msgid "Store Address"
+msgstr "Adresse de la boutique"
+
+#: includes/schemas.php:1263
+msgid "Recipe Type"
+msgstr "Type de recette"
+
+#: includes/schemas.php:1230
+msgid "Recipe Description"
+msgstr "Description de la recette"
+
+#: includes/schemas.php:1236
+msgid "Recipe Image"
+msgstr "Image de la recette"
+
+#: includes/schemas.php:1224
+msgid "Recipe Author"
+msgstr "Auteur de la recette"
+
+#: includes/schemas.php:1062
+msgid "Organization Image"
+msgstr "Image de l’organisation"
+
+#: includes/schemas.php:1056
+msgid "Organization Description"
+msgstr "Description de l’organisation"
+
+#: includes/schemas.php:1050
+msgid "Organization Name"
+msgstr "Nom de l’organisation"
+
+#: rating-types/circle-output.php:9 rating-types/circle-input.php:9
+#: rating-types/thumbs-input.php:9 rating-types/thumbs-output.php:9
+msgid "This rating type is not supported in the WP Review Free version"
+msgstr "Ce type d’évaluation n’est pas supportée dans version gratuite de WP Review"
+
+#. translators: PHP version.
+#: wp-review.php:38
+msgid "<strong>WP Review</strong> requires PHP version 5.6 or above. You are running version %s. Please update PHP to run this plugin."
+msgstr "<strong>WP Review</strong> nécessite la version 5,6 ou supérieure de PHP. Vous exécutez la version %s. Veuillez mettre à jour PHP pour exécuter cette extension."
+
+#: template-list.php:189
+msgid "Zine"
+msgstr "Zine"
+
+#: template-list.php:179
+msgid "Xiaomi"
+msgstr "Xiaomi"
+
+#: template-list.php:169
+msgid "Tabbed layout 2"
+msgstr "Mise en page en onglets 2"
+
+#: template-list.php:159
+msgid "Tabbed layout"
+msgstr "Mise en page en onglets"
+
+#: template-list.php:149
+msgid "Shell"
+msgstr "Coquille"
+
+#: template-list.php:138
+msgid "Gravity"
+msgstr "Gravité"
+
+#: template-list.php:128
+msgid "Gamer"
+msgstr "Joueur"
+
+#: template-list.php:108
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-list.php:98
+msgid "Enterprise"
+msgstr "Entreprise"
+
+#: template-list.php:78
+msgid "Dash"
+msgstr "Tiret"
+
+#: template-list.php:57
+msgid "Blue"
+msgstr "Bleu"
+
+#: template-list.php:47
+msgid "Aqua"
+msgstr "Eau"
+
+#: template-list.php:37
+msgid "Amazon"
+msgstr "Amazon"
+
+#. Translators: rating value.
+#: rating-types/point-input.php:50 rating-types/percentage-input.php:51
+msgid "%s"
+msgstr "%s"
+
+#: includes/widgets/class-wp-review-tab-widget.php:251
+#: includes/widgets/class-wp-review-tab-widget.php:275
+msgid "Recent Ratings"
+msgstr "Notes récentes"
+
+#: includes/widgets/class-wp-review-tab-widget.php:217
+msgid "Post date"
+msgstr "Date de l’article"
+
+#: includes/widgets/class-wp-review-tab-widget.php:214
+msgid "Extra information"
+msgstr "Informations complémentaires"
+
+#: includes/widgets/class-wp-review-tab-widget.php:157
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: includes/widgets/class-wp-review-tab-widget.php:152
+msgid "Top Rated Posts By:"
+msgstr "Les articles les mieux notés par :"
+
+#: includes/schemas.php:1498
+msgid "Store"
+msgstr "Boutique"
+
+#: includes/schemas.php:1350
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: includes/schemas.php:1214
+msgid "Recipe"
+msgstr "Recette"
+
+#: includes/schemas.php:805
+msgid "Movie"
+msgstr "Film"
+
+#: includes/schemas.php:608
+msgid "Game"
+msgstr "Jeu"
+
+#: includes/schemas.php:14
+msgid "Book"
+msgstr "Livre"
+
+#: includes/functions.php:3822
+msgid "Global Options"
+msgstr "Options générales"
+
+#: includes/functions.php:3758
+msgid "WordPress Comments"
+msgstr "Commentaires WordPress"
+
+#: includes/functions.php:3735
+#: includes/widgets/class-wp-review-tab-widget.php:113
+#: includes/widgets/class-wp-review-tab-widget.php:158
+msgid "Comments"
+msgstr "Commentaires"
+
+#: includes/schemas.php:38 includes/schemas.php:143 includes/schemas.php:212
+#: includes/schemas.php:321 includes/schemas.php:390 includes/schemas.php:495
+#: includes/schemas.php:632 includes/schemas.php:683 includes/schemas.php:756
+#: includes/schemas.php:829 includes/schemas.php:916 includes/schemas.php:975
+#: includes/schemas.php:1070 includes/schemas.php:1139
+#: includes/schemas.php:1374 includes/schemas.php:1440
+#: includes/schemas.php:1522 includes/schemas.php:1583
+#: box-templates/global/partials/review-schema.php:49
+msgid "[ More ]"
+msgstr "[ Plus ]"
+
+#: admin/options/review.php:352
+msgid "Replace form fields."
+msgstr "Remplacer les champs de formulaire."
+
+#: admin/options/review.php:319
+msgid "Use theme comments template. Might need customization of comments.php"
+msgstr "Utiliser le modèle de commentaires du thème. Pourrait nécessiter la personnalisation du fichier comments.php"
+
+#: admin/options/popup.php:191
+msgid "Most rated"
+msgstr "Les mieux notés"
+
+#: admin/options/popup.php:135
+msgid "From category"
+msgstr "De la catégorie"
+
+#: admin/demo-importer.php:32 admin/demo-importer.php:37
+msgid "Processing, please wait&hellip;"
+msgstr "Traitement en cours, veuillez patienter&hellip;"
+
+#: template-list.php:118
+msgid "Fizzy"
+msgstr "Pétillant"
+
+#: template-list.php:88
+msgid "Edge"
+msgstr "Edge"
+
+#: template-list.php:67
+msgid "Darkside"
+msgstr "Côté obscur"
+
+#: includes/widgets/class-wp-review-tab-widget.php:146
+msgid "Restrict recent reviews to current post"
+msgstr "Restreindre les commentaires récents à la publication actuelle"
+
+#: includes/widgets/class-wp-review-tab-widget.php:127
+msgid "Recent Reviews"
+msgstr "Évaluations récentes"
+
+#. Translators: reviews count.
+#: includes/shortcodes.php:113
+msgid "(%s vote)"
+msgstr "( %s votes)"
+
+#: includes/schemas.php:1559
+msgid "TVSeries"
+msgstr "Séries TV"
+
+#: includes/schemas.php:1416
+msgid "SoftwareApplication"
+msgstr "Application logicielle"
+
+#: includes/schemas.php:957
+msgid "MusicRecording"
+msgstr "Enregistrement musical"
+
+#: includes/functions.php:3830
+msgid "Purge Comment Ratings"
+msgstr "Purger les votes de commentaire"
+
+#: includes/functions.php:3829
+msgid "Purge Visitor Ratings"
+msgstr "Purger les votes des visiteurs"
+
+#: includes/functions.php:3827
+msgid "Review Description, Pros/Cons and Total Rating"
+msgstr "Description des évaluation, avantages/inconvénients et vote total"
+
+#: includes/functions.php:3825
+msgid "Review Features"
+msgstr "Fonctionnalités de l’évaluation"
+
+#: includes/functions.php:3824
+msgid "Single Page Settings"
+msgstr "Réglages des pages uniques"
+
+#: includes/functions.php:3695
+msgid "Comment Title"
+msgstr "Titre du commentaire"
+
+#: admin/admin.php:260
+msgid "Fading Exits"
+msgstr "Sorties de fondu enchaîné"
+
+#: admin/admin.php:253
+msgid "Bouncing Exits"
+msgstr "Sorties en rebond"
+
+#: admin/options/help.php:17
+msgid "Check our free WordPress video tutorials here: "
+msgstr "Consultez nos tutoriels vidéo WordPress ici : "
+
+#: admin/options/help.php:13
+msgid "All support for this plugin is provided through our forums. If you have not registered yet, you can do so here for ​<strong>FREE​</strong>: "
+msgstr "Tout le support pour cette extension est fourni par le biais de nos forums. Si vous n’êtes pas encore inscrit, vous pouvez le faire <strong>gratuitement</strong> ici : "
+
+#: admin/admin.php:372
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/options/review.php:782 admin/options/review.php:795
+#: admin/options/review.php:805 admin/options/review.php:831
+#: admin/options/review.php:841 admin/metaboxes.php:233 admin/metaboxes.php:702
+#: admin/metaboxes.php:714 admin/metaboxes.php:724
+msgid "Delete"
+msgstr "Supprimer"
+
+#: rating-types/point-input.php:40 rating-types/percentage-input.php:41
+#: rating-types/star-input.php:40
+msgid "Sending"
+msgstr "Envoi"
+
+#: admin/options/review.php:857 admin/metaboxes.php:760
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: admin/options/review.php:580 admin/metaboxes.php:419
+msgid "Font Color"
+msgstr "Couleur de la police"
+
+#: includes/widgets/class-wp-review-tab-widget.php:209
+msgid "Large"
+msgstr "Grand"
+
+#: includes/widgets/class-wp-review-tab-widget.php:208
+msgid "Small"
+msgstr "Petit"
+
+#: admin/options/hello-bar.php:65 filter-list.php:225
+msgid "Price"
+msgstr "Prix"
+
+#: admin/metaboxes.php:214
+msgid "Total"
+msgstr "Total"
+
+#: admin/metaboxes.php:513 includes/functions.php:1654
+msgid "Summary"
+msgstr "Résumé"
+
+#: includes/functions.php:3061
+#: includes/widgets/class-wp-review-tab-widget.php:549
+msgid "&laquo; Previous"
+msgstr "&laquo; Précédent"
+
+#: includes/functions.php:3065
+#: includes/widgets/class-wp-review-tab-widget.php:552
+msgid "Next &raquo;"
+msgstr "Suivant &raquo;"
+
+#: filter-list.php:222
+msgid "Audio"
+msgstr "Audio"
+
+#. Plugin Name of the plugin
+#: admin/options/review.php:326 admin/class-wp-review-options.php:38
+#: admin/class-wp-review-options.php:39 includes/functions.php:3847
+msgid "WP Review"
+msgstr "WP Review"
+
+#. Plugin URI of the plugin
+msgid "http://mythemeshop.com/plugins/wp-review/"
+msgstr "http://mythemeshop.com/plugins/wp-review/"
+
+#: admin/review-options-meta-box.php:58
+msgid "Review Type"
+msgstr "Type d’évaluation"
+
+#: admin/options/review.php:714
+msgid "No Review"
+msgstr "Aucune évaluation"
+
+#: admin/metaboxes.php:731
+msgid "Add another"
+msgstr "Ajouter une autre"
+
+#: admin/metaboxes.php:307
+msgid "Custom Location"
+msgstr "Emplacement personnalisé"
+
+#: admin/options/review.php:737 admin/metaboxes.php:326
+msgid "Review Location"
+msgstr "Emplacement de l’évaluation"
+
+#: admin/options/review.php:742 admin/metaboxes.php:331
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: admin/options/review.php:743 admin/metaboxes.php:332
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: admin/options/review.php:744 admin/metaboxes.php:333
+msgid "Custom (use shortcode)"
+msgstr "Personnalisé (utilisation de code court)"
+
+#: admin/options/review.php:560 admin/metaboxes.php:399
+msgid "Review Color"
+msgstr "Couleur de l’évaluation"
+
+#: admin/options/review.php:610 admin/metaboxes.php:449
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: admin/class-wp-review-options.php:170
+msgid "WP Review Settings"
+msgstr "Réglages de WP Review"
+
+#: admin/options/review.php:191
+msgid "There is a filter set for the review location that may modify the options below."
+msgstr "Ceci est un filtre défini pour l’emplacement de l’évaluation qui peut modifier les options ci-dessous."
+
+#: admin/options/review.php:198
+msgid "The current theme provides default settings for the plugin."
+msgstr "Le thème actuel fournit les réglages par défaut de l’extension."
+
+#: admin/options/review.php:552
+msgid "There is a filter set for the review colors that may modify the options below."
+msgstr "Ceci est filtre défini pour les couleurs de l’évaluation qui peut modifier les options ci-dessous."
+
+#: admin/metaboxes.php:239
+msgid "Feature Name"
+msgstr "Nom de la fonctionnalité"
+
+#: admin/options/review.php:812
+msgid "Add default feature"
+msgstr "Ajout de fonctionnalité par défaut"
+
+#: filter-list.php:407
+msgid "Enable Reviews"
+msgstr "Activer les évaluations"
+
+#: filter-list.php:223
+msgid "Visual"
+msgstr "Visuel"
+
+#: filter-list.php:224
+msgid "UX"
+msgstr "UX"
+
+#: includes/shortcodes.php:106
+msgid "User Rating"
+msgstr "Note utilisateur"
+
+#: includes/widgets/class-wp-review-tab-widget.php:34
+msgid "WP Review Widget"
+msgstr "Widget WP Review"
+
+#: includes/widgets/class-wp-review-tab-widget.php:88
+#: includes/widgets/class-wp-review-tab-widget.php:243
+#: includes/widgets/class-wp-review-tab-widget.php:267
+#: includes/widgets/class-wp-review-tab-widget.php:346
+msgid "Recent"
+msgstr "Récent"
+
+#: includes/widgets/class-wp-review-tab-widget.php:89
+#: includes/widgets/class-wp-review-tab-widget.php:131
+#: includes/widgets/class-wp-review-tab-widget.php:247
+#: includes/widgets/class-wp-review-tab-widget.php:271
+#: includes/widgets/class-wp-review-tab-widget.php:347
+msgid "Most Voted"
+msgstr "Les plus votés"
+
+#: includes/widgets/class-wp-review-tab-widget.php:90
+#: includes/widgets/class-wp-review-tab-widget.php:348
+msgid "Editor's choice"
+msgstr "Choix de l’éditeur"
+
+#: includes/widgets/class-wp-review-tab-widget.php:164
+msgid "Review type:"
+msgstr "Type d’évaluation :"
+
+#: includes/widgets/class-wp-review-tab-widget.php:185
+msgid "Allow pagination"
+msgstr "Autoriser la pagination"
+
+#: includes/widgets/class-wp-review-tab-widget.php:197
+msgid "Title length (words):"
+msgstr "Longueur du titre (mots) :"
+
+#: includes/widgets/class-wp-review-tab-widget.php:233
+msgid "Tab Titles"
+msgstr "Titres de l’onglet"
+
+#: includes/widgets/class-wp-review-tab-widget.php:233
+msgid "Tab Order"
+msgstr "Ordre de l’onglet"
+
+#. Description of the plugin
+msgid "Create reviews! Choose from stars, percentages or points for review scores. Supports Retina Display, WPMU and Unlimited Color Schemes."
+msgstr "Créez des évaluations ! Choisissez entre des étoiles, des pourcentages ou des points pour les scores des évaluations. Supporte l’affichage Retina, WPMU et des thèmes de couleurs illimités."
+
+#. Author URI of the plugin
+msgid "http://mythemeshop.com/"
+msgstr "http://mythemeshop.com/"
+
+#: includes/widgets/class-wp-review-tab-widget.php:28
+msgid "Display Reviews in tabbed format."
+msgstr "Afficher les évaluations dans un format en onglets."
+
+#: admin/admin.php:109 includes/schemas.php:192 includes/schemas.php:301
+msgid "Title"
+msgstr "Titre"
+
+#: admin/review-options-meta-box.php:224 admin/review-options-meta-box.php:245
+msgid "Enable"
+msgstr "Activer"
+
+#: admin/options/review.php:749
+msgid "Copy & paste this shortcode in the post content."
+msgstr "Copiez-collez ce code court dans le contenu de l’article."
+
+#: includes/widgets/class-wp-review-tab-widget.php:223
+msgid "Reviews on Custom tab:"
+msgstr "Évaluations dans l’onglet personnalisé :"
+
+#: includes/widgets/class-wp-review-tab-widget.php:206
+msgid "Thumbnail size:"
+msgstr "Taille des miniatures :"
+
+#: includes/widgets/class-wp-review-tab-widget.php:190
+msgid "Number of reviews to show:"
+msgstr "Nombre d’évaluations à afficher :"
+
+#: admin/options/popup.php:117
+msgid "Any"
+msgstr "N’importe quel"
+
+#: includes/widgets/class-wp-review-tab-widget.php:135
+#: includes/widgets/class-wp-review-tab-widget.php:255
+#: includes/widgets/class-wp-review-tab-widget.php:279
+msgid "Custom"
+msgstr "Personaliser"
+
+#: includes/widgets/class-wp-review-tab-widget.php:118
+msgid "Select Tabs"
+msgstr "Sélectionnez des onglets"
+
+#: admin/options/review.php:810
+msgid "Default features are set by a filter function. Remove it to change."
+msgstr "Les fonctionnalités par défaut sont définies par une fonction de filtre. Retirez-le pour le modifier."
+
+#: admin/options/review.php:600 admin/metaboxes.php:439
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: admin/options/review.php:590 admin/metaboxes.php:429
+msgid "Heading Background Color"
+msgstr "Couleur d'arrière-plan de titrage"
+
+#: admin/metaboxes.php:339
+msgid "Copy &amp; paste this shortcode in the content."
+msgstr "Copiez-collez ce code court dans le contenu."
+
+#: includes/widgets/class-wp-review-tab-widget.php:87
+#: includes/widgets/class-wp-review-tab-widget.php:123
+#: includes/widgets/class-wp-review-tab-widget.php:239
+#: includes/widgets/class-wp-review-tab-widget.php:263
+#: includes/widgets/class-wp-review-tab-widget.php:345
+msgid "Top Rated"
+msgstr "Les mieux notés"
+
+#: admin/options/review.php:200
+msgid "Set to theme defaults"
+msgstr "Définir aux valeurs par défaut du thème"
+
+#: admin/metaboxes.php:71
+msgid "Review Description"
+msgstr "Description de l’évaluation"
+
+#: admin/review-options-meta-box.php:92
+msgid "Review Heading"
+msgstr "Titre de l’évaluation"
+
+#: admin/options/review.php:165 includes/functions.php:1080
+msgid "Star"
+msgstr "Étoile"
+
+#: admin/options/review.php:166 includes/functions.php:1095
+msgid "Point"
+msgstr "Point"
+
+#: admin/options/review.php:167 includes/functions.php:1110
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: admin/metaboxes.php:82 includes/functions.php:3828
+msgid "User Reviews"
+msgstr "Évaluations utilisateur"
+
+#: admin/metaboxes.php:50
+msgid "Review Item"
+msgstr "Élément d’évaluation"
+
+#: admin/metaboxes.php:40
+msgid "Review"
+msgstr "Avis"
